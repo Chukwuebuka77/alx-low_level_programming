@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
-* main - prints the strings of the funct puts
-* main is the entry point
-* return is 0
+* main - Entry point
+*  
+* Return: Always 0 (Success)
 */
 int main(void)
 {
