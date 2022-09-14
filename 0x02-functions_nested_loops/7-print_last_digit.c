@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* print_last_digit 
+* print_last_digit - entry point
 * @n: an integer
 * Return: always 0
 */
