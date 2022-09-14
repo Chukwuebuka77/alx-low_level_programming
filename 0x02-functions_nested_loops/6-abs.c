@@ -1,17 +1,15 @@
 #include "main.h"
 #include <stdlib.h>
-#include <stdio.h>
 /**
 * _abs - check the code
 * Return: Always 0
 */
-int _abs(int)
+int _abs(int c)
 {
-	int i = abs(i);
-	if (i > 0)
+	if (c > 0 || c == 0)
 	{
-		_putchar("\nAbsolute Number = %d", i);
-		_putchar("\nAbsolute Number = %d", i);
+		return (c);
 	}
-	return (0);
+	else
+		return (c * -1);
 }
