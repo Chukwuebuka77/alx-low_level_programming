@@ -1,7 +1,8 @@
 #include "main.h"
 #include <stdlib.h>
 /**
-* _abs - check the code
+* _abs - check the cod
+* @c: an integer
 * Return: Always 0
 */
 int _abs(int c)
